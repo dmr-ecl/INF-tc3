@@ -6,3 +6,5 @@ Ce projet correspond à un développement réalisé dans le cadre de l'enseignem
 - Ginette Ringard
 - Séraphin Lampion 
 - Jean Aymard
+
+Tous droits réservés.
