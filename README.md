@@ -7,4 +7,4 @@ Ce projet correspond à un développement réalisé dans le cadre de l'enseignem
 - Séraphin Lampion 
 - Jean Aymard
 
-Tous droits réservés.
+Tous droits réservés pour tous pays.
